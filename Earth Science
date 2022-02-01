@@ -1,0 +1,5 @@
+#Flow Duration Curves to Determine Characteristics and Estimate Potential Flow
+##Why it is interesting?
+
+MAIN TAKEAWAY: "This notebook uses the Scientific Python (scipy) stack tools to generate flow duration curves from current USGS NWIS data."
+I find this intersting because I have always had a passion for Earth Science/Basins. A Basin is defined as "A basin is a depression, or dip, in the Earth’s surface." I think it is very cool that a topic like this can be estimated using code!
